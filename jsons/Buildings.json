@@ -1,14 +1,14 @@
 [
 	{
 		"name": "Pulpera",
-		"replaces": "Circus Maximus",
+		"replaces": "Market",
 		"uniqueTo": "Argentine confederation",
 		"cost": 120,
-		"happiness": 20,
-		"culture": 20,
+		"happiness": 7,
+		"culture": 7,
 		"maintenance": 5,
 		"isNationalWonder": false,
 		"requiredTech": "Currency",
-		"uniques": ["Provides a free [Gaucho] unit when built"]
+		"uniques": ["Free [Gaucho] appears"]
 	}
 ]
