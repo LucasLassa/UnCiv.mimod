@@ -4,9 +4,9 @@
 		"unitType": "Melee",
 		"uniqueTo": "Argentine confederation",
 		"replaces": "Warrior",
-		"movement": 4,
-		"strength": 11,
-		"cost": 120,
+		"movement": 3,
+		"strength": 18,
+		"cost": 15,
 		"requiredTech": "Agriculture"
 	}
 ]
