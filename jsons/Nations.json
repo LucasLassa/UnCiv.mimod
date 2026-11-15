@@ -3,7 +3,7 @@
 		"name": "Argentine confederation",
 		"leaderName": "Juan Manuél de Rozas",
 		"adjective": ["Brigadier"],
-		"startBias": ["Coast", "Avoid [Snow]", "Avoid [Desert]", "Avoid [Jungle]", "Avoid [Forest]", "Avoid [Hill]"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "¡Viva la Santa Federacion!",
