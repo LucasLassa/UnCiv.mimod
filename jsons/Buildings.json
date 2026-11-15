@@ -1,25 +1,14 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Pulpera",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniqueTo": "Argentine confederation",
+		"cost": 120,
+		"happiness": 20,
+		"culture": 20,
+		"maintenance": 5,
+		"isNationalWonder": false,
+		"requiredTech": "Currency",
+		"uniques": ["Provides a free [Gaucho] unit when built"]
 	}
 ]
