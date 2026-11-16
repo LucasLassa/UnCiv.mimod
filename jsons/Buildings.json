@@ -1,14 +1,18 @@
 [
 	{
 		"name": "Pulpera",
-		"replaces": "Market",
+		"replaces": "Granary",
 		"uniqueTo": "Argentine confederation",
-		"cost": 120,
-		"happiness": 7,
-		"culture": 7,
-		"maintenance": 5,
+		"cost": 50,
+		"food": 2,
+		"happiness": 1,
+		"culture": 2,
+		"maintenance": 2,
 		"isNationalWonder": false,
 		"requiredTech": "Currency",
-		"uniques": ["Free [Gaucho] appears"]
+		"uniques": [
+			"Free [Gaucho] appears",
+			"[30]% chance to receive a [Great Merchant]"
+		]
 	}
 ]
