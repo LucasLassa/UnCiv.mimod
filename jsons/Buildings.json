@@ -4,13 +4,13 @@
 		"cost": 70,
 		"maintenance": 2,
 		"isWonder": false,
-		"isNationalWonder": true,
+		"isNationalWonder": false,
 		"requiredTech": "Construction",
 		"replaces": "Monument",
 		"uniqueTo": "Buenos Aires",
 		"food": 4,
 		"culture": 4,
-		"percentStatBonus": {"food": 20, "culture": 20,},
+		"percentStatBonus": {"food": 20, "culture": 20},
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": [
 			"Destroyed when the city is captured",
@@ -18,12 +18,9 @@
 			"[+10]% [Culture] [in this city] <after discovering [Drama and Poetry]>"
 		],
 		"civilopediaText": []
-	}
-]
-
-[
+	},
 	{
-		"name": "Pulpera",
+		"name": "Pulperia",
 		"cost": 20,
 		"maintenance": 1,
 		"isWonder": false,
@@ -33,9 +30,9 @@
 		"uniqueTo": "Confederacion Argentina",
 		"food": 2,
 		"happiness": 2,
-		"percentStatBonus": {"food": 20, "happiness": 20,},
+		"percentStatBonus": {"food": 20, "happiness": 20},
 		"uniques": [
-			"[+4 food] from [River] tiles [in this city]",
+			"[+4 Food] from [River] tiles [in this city]"
 		],
 		"civilopediaText": []
 	}
