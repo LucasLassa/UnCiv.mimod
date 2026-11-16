@@ -5,8 +5,6 @@
 		"replaces": "Warrior",
 		"unitType": "Melee",
 		"requiredTech": "Agriculture",
-		"requiredResource": "none",
-		"obsoleteTech": "none",
 		"cost": 35,
 		"movement": 3,
 		"strength": 12,
