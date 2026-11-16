@@ -25,8 +25,8 @@
 		"innerColor": [227, 0, 34],
 		"uniqueName": "Criollo criado por Salvajes",
 		"uniques": [
-			"When conquering an encampment, earn [15] Gold and recruit a [Gaucho]",
-			"[+5] [Gold] from every [Harbor]"
+			"When conquering an encampment, earn [15] Gold and recruit a Barbarian unit",
+			"[+5] [Gold] from all [Harbor] buildings"
 		],
 		"cities": ["Buenos Aires","La Plata","Mar del Plata","Bahía Blanca","Tandil","Olavarría","Pergamino","Junín","Necochea","San Nicolás de los Arroyos","Zárate","Campana","Azul","Mercedes","Chivilcoy","Tres Arroyos","Trenque Lauquen","Balcarce","Pinamar","Villa Gesell","Miramar","San Pedro","Coronel Suárez","Lobos","Chascomús","San Vicente","Cañuelas","General Las Heras","Luján","Tigre","San Isidro","Vicente López","San Martín","Morón","Ramos Mejía","Lanús","Avellaneda","Quilmes","Berazategui","Florencio Varela","Ezpeleta","Berisso","Ensenada","San Antonio de Areco","Carmen de Patagones","Bragado","9 de Julio","Bolívar","Pehuajó","Salto","Rojas"]
 	}
