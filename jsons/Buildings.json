@@ -1,18 +1,15 @@
 [
 	{
-		"name": "Pulpera",
-		"replaces": "Granary",
+		"name": "Gaucho",
+		"unitType": "Melee",
 		"uniqueTo": "Argentine confederation",
-		"cost": 50,
-		"food": 2,
-		"happiness": 1,
-		"culture": 2,
-		"maintenance": 2,
-		"isNationalWonder": false,
-		"requiredTech": "Currency",
-		"uniques": [
-			"Free [Gaucho] appears",
-			"[30]% chance to receive a [Great Merchant]"
-		]
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 12,
+		"cost": 35,
+		"requiredTech": "Agriculture",
+		"promotions": ["Shock I", "Logistics"],
+		"uniques": ["[67]% chance to capture [Barbarian] units"],
+		"attackSound": "sword"
 	}
 ]
