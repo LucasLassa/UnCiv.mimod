@@ -34,3 +34,39 @@
 		"civilopediaText": []
 	}
 ]
+
+
+[
+	{
+		"name": "Confederacion Argentina",
+		"leaderName": "Juan Manuel de Rosas",
+		"adjective": ["Rioplatense"],
+		"preferredVictoryType": "Domination",
+		"startBias": ["Coast", "River"],
+		"outerColor": [105, 188, 255],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "El Restaurador de leyes",
+		"uniques": [
+			"When conquering an encampment, earn [75] Gold and recruit a Barbarian unit <with [100]% chance>",
+			"[-75]% maintenance costs <for [Land] units>",
+			
+		],
+		"cities": ["Buenos Aires","La Plata","Mar del Plata","Bahía Blanca","Tandil","Olavarría","Pergamino","Junín","Necochea","San Nicolás de los Arroyos","Zárate","Campana","Azul","Mercedes","Chivilcoy","Tres Arroyos","Trenque Lauquen","Balcarce","Pinamar","Villa Gesell","Miramar","San Pedro","Coronel Suárez","Lobos","Chascomús","San Vicente","Cañuelas","General Las Heras","Luján","Tigre","San Isidro","Vicente López","San Martín","Morón","Ramos Mejía","Lanús","Avellaneda","Quilmes","Berazategui","Florencio Varela","Ezpeleta","Berisso","Ensenada","San Antonio de Areco","Carmen de Patagones","Bragado","9 de Julio","Bolívar","Pehuajó","Salto","Rojas"],
+		"startIntroPart1": "¡Viva la Confederación Argentina!",
+		"startIntroPart2": "Federación o muerte",
+		"declaringWar": "Trabajo para la Mazorca",
+		"attacked": "No habrá paz.",
+		"defeated": "¡Estoy rodeado de cobardes!",
+		"denounced": "Tu insolencia no quedará impune.",
+		"neutralDenouncing": "Caramba.",
+		"hateDenouncing": "A las cosas.",
+		"introduction": "Bienvenido a la Federacion.",
+		"neutralHello": "Hola de nuevo.",
+		"hateHello": "¿Qué quieres ahora?",
+		"tradeRequest": "¿Qué te parece este trato?",
+		"declaringFriendship": "Anhelamos la unidad.",
+		"neutralRejectingDemand": "Primero los nuestros.",
+		"hateRejectingDemand": "Primero los nuestros.",
+		"civilopediaText": []
+	}
+]
