@@ -3,16 +3,11 @@
 		"name": "Argentine confederation",
 		"leaderName": "Juan Manuél de Rozas",
 		"adjective": ["Brigadier"],
-		"style": "none",
-		"cityStateType": "none",
 		"startBias": ["Coast", "Plains", "River", "Avoid [Tundra]", "Avoid [Desert]", "Avoid [Snow]"],
 		"preferredVictoryType": "Domination",
-		"personality": "none",
-		"favoredReligion": "none",
 		"outerColor": [55, 55, 133],
 		"innerColor": [104, 14, 14],
 		"uniqueName": "Tirano Unitario",
-		"uniqueText": "none",
 		"uniques": [
 			"When conquering an encampment, earn [15] Gold and recruit a Barbarian unit"
 		],
@@ -23,15 +18,11 @@
 		"attacked": "Para eso es bueno andar de rojo",
 		"defeated": "Venció el unitario",
 		"denounced": "Las acusaciones de los unitarios no nos preocupan.",
-		"neutralDenouncing": "none",
-		"hateDenouncing": "none",
 		"introduction": "La federacion extiende la mano.",
 		"neutralHello": "¿Como puedo servirle?",
 		"hateHello": "¿Quien te manda?",
 		"tradeRequest": "Traigamos las cartas y negociemos.",
 		"declaringFriendship": "¡Unámonos como hermanos federales!",
-		"neutralRejectingDemand": "none",
-		"hateRejectingDemand": "none",
 		"civilopediaText": []
 	}
 ]
