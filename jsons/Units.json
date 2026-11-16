@@ -10,13 +10,11 @@
 		"range": 0,
 		"interceptRange": 0,
 		"requiredTech": "Agriculture",
-		"upgradesTo": "none",
 		"replaces": "Warrior",
 		"uniqueTo": "Argentine confederation",
 		"hurryCostModifier": 0,
 		"promotions": ["Shock I", "Logistics"],
 		"uniques": ["May capture killed [Barbarian] units"],
-		"replacementTextForUniques": "none",
 		"attackSound": "sword",
 		"civilopediaText": []
 	}
