@@ -15,7 +15,6 @@
 		"uniques": [
 			"Can move after attacking",
 			"Ignores terrain cost"
-			"Can build [Land] improvements on tiles"
 		],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": []
@@ -35,15 +34,11 @@
 		"promotions": [],
 		"uniques": [
 			"Can move after attacking",
-			"Ignores terrain cost",
+			"Ignores terrain cost"
 		],
 		"attackSound": "arrow",
 		"civilopediaText": []
-	}
-]
-
-
-[
+	},
 	{
 		"name": "Mazorquero",
 		"unitType": "Melee",
@@ -58,9 +53,9 @@
 		"uniqueTo": "Confederacion Argentina",
 		"promotions": [],
 		"uniques": [
-			"Can move after attacking",
+			"Can move after attacking"
 		],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": []
-	},
+	}
 ]
