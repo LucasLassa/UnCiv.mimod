@@ -20,3 +20,23 @@
 		"civilopediaText": []
 	}
 ]
+
+[
+	{
+		"name": "Pulpera",
+		"cost": 20,
+		"maintenance": 1,
+		"isWonder": false,
+		"isNationalWonder": false,
+		"requiredTech": "Construction",
+		"replaces": "Granary",
+		"uniqueTo": "Confederacion Argentina",
+		"food": 2,
+		"happiness": 2,
+		"percentStatBonus": {"food": 20, "happiness": 20,},
+		"uniques": [
+			"[+4 food] from [River] tiles [in this city]",
+		],
+		"civilopediaText": []
+	}
+]
