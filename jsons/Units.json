@@ -1,12 +1,17 @@
 [
 	{
 		"name": "Gaucho",
-		"unitType": "Melee",
 		"uniqueTo": "Argentine confederation",
+		"replaces": "Warrior",
+		"unitType": "Melee",
+		"requiredTech": "Agriculture",
+		"requiredResource": "none",
+		"obsoleteTech": "none",
+		"cost": 35,
 		"movement": 3,
 		"strength": 12,
-		"cost": 35,
-		"requiredTech": "Agriculture",
+		"rangedStrength": 0,
+		"range": 0,
 		"promotions": ["Shock I", "Logistics"],
 		"uniques": ["May capture killed [Barbarian] units"],
 		"attackSound": "sword"
