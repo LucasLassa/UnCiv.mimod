@@ -36,22 +36,4 @@
 		],
 		"civilopediaText": []
 	}
-	{
-		"name": "Reino",
-		"cost": 33,
-		"maintenance": 1,
-		"isWonder": false,
-		"isNationalWonder": true,
-		"requiredTech": "Agriculture",
-		"replaces": "Monument",
-		"uniqueTo": "Argentina Divina",
-		"food": 10000,
-		"happiness": 10000,
-		"production": 10000,
-		"percentStatBonus": {"food": 20, "happiness": 20},
-		"uniques": [
-			"[+100 Food] from [River] tiles [in this city]"
-		],
-		"civilopediaText": []
-	}
 ]
