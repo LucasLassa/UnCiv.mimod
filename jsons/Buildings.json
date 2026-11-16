@@ -5,7 +5,6 @@
 		"maintenance": 1,
 		"isWonder": false,
 		"isNationalWonder": true,
-		"requiredBuilding": "none",
 		"requiredTech": "Agriculture",
 		"requiredNearbyImprovedResources": [],
 		"replaces": "Monument",
@@ -23,8 +22,6 @@
 		"cityStrength": 0,
 		"cityHealth": 0,
 		"hurryCostModifier": 0,
-		"quote": "none",
-		"replacementTextForUniques": "none",
 		"uniques": [
 			"Free [Great Engineer] appears"
 		],
