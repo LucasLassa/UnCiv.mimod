@@ -3,8 +3,8 @@
 		"name": "Criollo",
 		"unitType": "Melee",
 		"cost": 70,
-		"movement": 3,
-		"strength": 22,
+		"movement": 2,
+		"strength": 18,
 		"rangedStrength": 0,
 		"religiousStrength": 0,
 		"range": 0,
@@ -15,6 +15,7 @@
 		"uniques": [
 			"Can move after attacking",
 			"Ignores terrain cost"
+			"Can build [Land] improvements on tiles"
 		],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": []
@@ -27,7 +28,7 @@
 		"strength": 5,
 		"rangedStrength": 12,
 		"religiousStrength": 0,
-		"range": 3,
+		"range": 2,
 		"requiredTech": "Archery",
 		"replaces": "Archer",
 		"uniqueTo": "Buenos Aires",
