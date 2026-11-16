@@ -1,17 +1,23 @@
 [
 	{
-		"name": "Gaucho",
-		"uniqueTo": "Argentine confederation",
-		"replaces": "Warrior",
+		"name": "Mazorquero",
 		"unitType": "Melee",
-		"requiredTech": "Agriculture",
-		"cost": 35,
+		"cost": 55,
 		"movement": 3,
-		"strength": 12,
+		"strength": 15,
 		"rangedStrength": 0,
+		"religiousStrength": 5,
 		"range": 0,
+		"interceptRange": 0,
+		"requiredTech": "Agriculture",
+		"upgradesTo": "none",
+		"replaces": "Warrior",
+		"uniqueTo": "Argentine confederation",
+		"hurryCostModifier": 0,
 		"promotions": ["Shock I", "Logistics"],
 		"uniques": ["May capture killed [Barbarian] units"],
-		"attackSound": "sword"
+		"replacementTextForUniques": "none",
+		"attackSound": "sword",
+		"civilopediaText": []
 	}
 ]
