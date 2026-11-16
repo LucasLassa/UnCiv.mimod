@@ -8,14 +8,13 @@
 		"requiredTech": "Construction",
 		"replaces": "Monument",
 		"uniqueTo": "Buenos Aires",
-		"food": 1,
-		"culture": 3,
-		"happiness": 2,
-		"percentStatBonus": {"food": 10, "culture": 15, "happiness": 10},
+		"food": 4,
+		"culture": 4,
+		"percentStatBonus": {"food": 20, "culture": 20,},
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": [
 			"Destroyed when the city is captured",
-			"[+1 Culture] from [River] tiles [in this city]",
+			"[+4 Culture] from [River] tiles [in this city]",
 			"[+10]% [Culture] [in this city] <after discovering [Drama and Poetry]>"
 		],
 		"civilopediaText": []
