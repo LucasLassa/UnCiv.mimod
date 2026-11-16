@@ -41,3 +41,26 @@
 		"civilopediaText": []
 	}
 ]
+
+
+[
+	{
+		"name": "Mazorquero",
+		"unitType": "Melee",
+		"cost": 80,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 0,
+		"religiousStrength": 0,
+		"range": 0,
+		"requiredTech": "Agriculture",
+		"replaces": "Warrior",
+		"uniqueTo": "Confederacion Argentina",
+		"promotions": [],
+		"uniques": [
+			"Can move after attacking",
+		],
+		"attackSound": "nonmetalhit",
+		"civilopediaText": []
+	},
+]
