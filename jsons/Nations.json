@@ -39,7 +39,7 @@
 		"preferredVictoryType": "Domination",
 		"startBias": ["Coast", "Grassland"],
 		"outerColor": [98, 8, 8],
-		"innerColor": [255, 255, 255],
+		"innerColor": [76, 60, 165],
 		"uniqueName": "El Restaurador de leyes",
 		"uniques": [
 			"When conquering an encampment, earn [75] Gold and recruit a Barbarian unit <with [100]% chance>",
