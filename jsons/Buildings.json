@@ -1,19 +1,19 @@
 [
 	{
-		"name": "Obelisco Masonico",
+		"name": "Clubes",
 		"cost": 70,
-		"maintenance": 1,
+		"maintenance": 2,
 		"isWonder": false,
-		"isNationalWonder": true,
-		"requiredTech": "Agriculture",
-		"replaces": "Monument",
-		"uniqueTo": "Argentine confederation",
-		"culture": 4,
-		"percentStatBonus": {"culture": 25},
-		"greatPersonPoints": {"Great Scientist": 2, "Great Artist": 2},
-		"uniques": [
-			"Free [Great Engineer] appears"
-		],
+		"isNationalWonder": false,
+		"requiredTech": "Construction",
+		"replaces": "Circus",
+		"uniqueTo": "Argentina",
+		"food": 2,
+		"happiness": 2,
+		"culture": 2,
+		"percentStatBonus": {"food": 20, "happiness": 20, "culture": 20},
+		"greatPersonPoints": {"Great Artist": 2},
+		"uniques": [],
 		"civilopediaText": []
 	}
 ]
