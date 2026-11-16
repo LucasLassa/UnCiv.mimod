@@ -67,7 +67,7 @@
 		"name": "Argentina Divina",
 		"leaderName": "Dios",
 		"adjective": ["Divinos"],
-		"preferredVictoryType": "Neuntral",
+		"preferredVictoryType": "Neutral",
 		"startBias": ["Coast", "Grassland"],
 		"outerColor": [255, 255, 255],
 		"innerColor": [255, 255, 155],
