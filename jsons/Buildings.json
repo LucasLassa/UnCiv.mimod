@@ -1,18 +1,24 @@
 [
 	{
 		"name": "Pulpera",
-		"replaces": "Granary",
 		"uniqueTo": "Argentine confederation",
+		"replaces": "Monument",
+		"requiredTech": "Agriculture",
+		"requiredResource": "none",
 		"cost": 50,
+		"maintenance": 2,
 		"food": 2,
 		"happiness": 1,
 		"culture": 2,
-		"maintenance": 2,
+		"production": 0,
+		"gold": 0,
+		"science": 0,
+		"faith": 0,
+		"isWonder": false,
 		"isNationalWonder": false,
-		"requiredTech": "Currency",
 		"uniques": [
 			"Free [Gaucho] appears",
-			"Free [Great Merchant] appears"
+			"Free [Great Engineer] appears"
 		]
 	}
 ]
