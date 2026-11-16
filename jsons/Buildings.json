@@ -4,7 +4,6 @@
 		"uniqueTo": "Argentine confederation",
 		"replaces": "Monument",
 		"requiredTech": "Agriculture",
-		"requiredResource": "none",
 		"cost": 50,
 		"maintenance": 2,
 		"food": 2,
