@@ -1,18 +1,41 @@
 [
 	{
-		"name": "Barrabrava",
-		"unitType": "Scout",
-		"cost": 15,
-		"movement": 6,
-		"strength": 5,
-		"rangedStrength": 5,
-		"religiousStrength": 5,
-		"range": 5,
-		"requiredTech": "Archery",
-		"replaces": "Scout",
-		"uniqueTo": "Argentina",
+		"name": "Criollo",
+		"unitType": "Melee",
+		"cost": 50,
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 0,
+		"religiousStrength": 0,
+		"range": 0,
+		"requiredTech": "Agriculture",
+		"replaces": "Warrior",
+		"uniqueTo": "Buenos Aires",
 		"promotions": [],
-		"uniques": [],
+		"uniques": [
+			"Can move after attacking",
+			"Ignores terrain cost"
+		],
+		"attackSound": "nonmetalhit",
+		"civilopediaText": []
+	},
+	{
+		"name": "Boleador",
+		"unitType": "Ranged",
+		"cost": 60,
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 12,
+		"religiousStrength": 0,
+		"range": 3,
+		"requiredTech": "Archery",
+		"replaces": "Archer",
+		"uniqueTo": "Buenos Aires",
+		"promotions": [],
+		"uniques": [
+			"Can move after attacking",
+			"Ignores terrain cost",
+		],
 		"attackSound": "arrow",
 		"civilopediaText": []
 	}
